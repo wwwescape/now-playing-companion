@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Now Playing Companion</string>
+    <string name="listener_label">Now Playing to watch</string>
+    <string name="status_access_granted">Notification access granted</string>
+    <string name="status_access_needed">Notification access needed</string>
+    <string name="status_access_body">Songs are read from Pixel\'s Now Playing notification. Turn on ambient recognition in Settings › Sound &amp; vibration › Now Playing, and song notifications in the Now Playing app › Settings › Notifications. Nothing is recorded or uploaded.</string>
+    <string name="status_watch_connected">Connected to %1$s</string>
+    <string name="status_watch_missing">No watch connected</string>
+    <string name="status_watch_body">Install Now Playing Companion on your watch. Songs are sent over Bluetooth or Wi-Fi only when one is recognized.</string>
+    <string name="action_grant_access">Grant access</string>
+    <string name="action_send_test">Send test song</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_remove">Remove</string>
+    <string name="history_title">Recently recognized</string>
+    <string name="history_empty">Nothing yet. Songs appear here as Now Playing recognizes them.</string>
+    <string name="setting_open_with">Open songs in</string>
+    <string name="settings">Settings</string>
+    <string name="action_back">Back</string>
+    <string name="section_playback">Playback</string>
+    <string name="section_watch">Watch</string>
+    <string name="setting_alerts">Song alerts</string>
+    <string name="setting_alerts_summary">Notify on your watch when a song is heard</string>
+    <string name="setting_alert_level">Alert style</string>
+    <string name="level_on_screen">On screen</string>
+    <string name="level_on_screen_summary">Buzz and show the song</string>
+    <string name="level_dot">Dot only</string>
+    <string name="level_dot_summary">Buzz, then swipe up to see</string>
+    <string name="level_quiet">Quiet</string>
+    <string name="level_quiet_summary">No buzz, just in notifications</string>
+    <string name="setting_vibration">Vibration</string>
+    <string name="haptic_subtle">Subtle</string>
+    <string name="haptic_prominent">Prominent</string>
+    <string name="haptic_heartbeat">Heartbeat</string>
+    <string name="haptic_mute">Mute</string>
+    <string name="music_app_youtube_music">YouTube Music</string>
+    <string name="music_app_spotify">Spotify</string>
+    <string name="music_app_google">Google</string>
+
+    <!-- About (same layout and wording as the sibling apps) -->
+    <string name="section_about">About</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="privacy_statement_body">Now Playing Companion records no audio and has no microphone access. It reads only Now Playing\'s notification on your phone, and the song title and artist travel directly between your phone and watch over Google Play services. Nothing is sent to any server.</string>
+    <string name="section_privacy_policy">Privacy Policy</string>
+    <string name="section_open_source_licenses">Open-source licenses</string>
+    <string name="settings_row_licenses_subtitle">Third-party software notices</string>
+    <string name="section_licenses_intro_title">Compliance &amp; Credits</string>
+    <string name="section_licenses_intro_body">Now Playing Companion is built using world-class open-source software. Below is a list of the libraries that make this app possible.</string>
+    <string name="licenses_footer_format">%1$s © %2$d. All trademarks are the property of their respective owners.</string>
+    <string name="license_badge_apache">Apache 2.0</string>
+    <string name="license_badge_android_sdk">Android SDK</string>
+    <string name="library_version_license_format">%1$s • %2$s</string>
+    <string name="lib_desc_compose">UI toolkit for native Android</string>
+    <string name="lib_desc_wearable">Phone–watch sync over the Wearable Data Layer</string>
+    <string name="lib_desc_coroutines">Asynchronous work without blocking the UI</string>
+</resources>
