@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Now Playing Companion</string>
+
+    <string name="now_playing">Now playing</string>
+    <string name="last_heard">Last heard</string>
+    <string name="earlier">Earlier</string>
+    <string name="history_empty">Songs your phone recognizes will appear here.</string>
+    <string name="tap_to_open_on_phone">Tap to open on phone</string>
+    <string name="remove">Remove</string>
+    <string name="settings">Settings</string>
+
+    <string name="opening_on_phone">Opening on phone…</string>
+    <string name="open_on_phone_failed">Couldn\'t reach your phone</string>
+    <string name="action_open_on_phone">Open on phone</string>
+    <string name="channel_song_detected">Song detected</string>
+
+    <string name="setting_alerts">Song alerts</string>
+    <string name="setting_alerts_summary">Notify when a new song is heard</string>
+    <string name="setting_vibration">Vibration</string>
+    <string name="setting_open_with">Open songs in</string>
+    <string name="haptic_subtle">Subtle</string>
+    <string name="haptic_prominent">Prominent</string>
+    <string name="haptic_heartbeat">Heartbeat</string>
+    <string name="haptic_mute">Mute</string>
+    <string name="music_app_youtube_music">YouTube Music</string>
+    <string name="music_app_spotify">Spotify</string>
+    <string name="music_app_google">Google Search</string>
+
+    <string name="tile_label">Now Playing</string>
+    <string name="tile_now_playing">Now playing</string>
+    <string name="tile_last_heard">Last heard</string>
+    <string name="tile_empty">No songs yet</string>
+    <string name="tile_open">Open on phone</string>
+    <string name="tile_open_app">Open</string>
+    <string name="complication_label">Now Playing song</string>
+</resources>

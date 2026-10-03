@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Now Playing Companion</string>
+    <string name="listener_label">Now Playing to watch</string>
+    <string name="status_access_granted">Notification access granted</string>
+    <string name="status_access_needed">Notification access needed</string>
+    <string name="status_access_body">Songs are read from Pixel\'s Now Playing notification. Turn on ambient recognition in Settings › Sound &amp; vibration › Now Playing. Nothing is recorded or uploaded.</string>
+    <string name="status_watch_connected">Connected to %1$s</string>
+    <string name="status_watch_missing">No watch connected</string>
+    <string name="status_watch_body">Install Now Playing Companion on your watch. Songs are sent over Bluetooth or Wi-Fi only when one is recognized.</string>
+    <string name="action_grant_access">Grant access</string>
+    <string name="action_send_test">Send test song</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_remove">Remove</string>
+    <string name="history_title">Recently recognized</string>
+    <string name="history_empty">Nothing yet. Songs appear here as Now Playing recognizes them.</string>
+</resources>
